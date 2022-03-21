@@ -1,0 +1,40 @@
+body{
+	background:url(bg2.gif) no-repeat center center fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+h1{
+	color: orange;
+}
+
+h2{
+	color: orange;
+}
+h3{
+	color: orange;
+}
+
+p{
+	color: #003366;
+}
+
+ul .menuitem{
+   color: orange;  
+}
+
+#leftmenu_main {
+	color: orange;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  color: #003366;
+}
+
+a:hover {
+  color: orange;
+}
